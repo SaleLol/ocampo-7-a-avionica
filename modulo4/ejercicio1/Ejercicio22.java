@@ -1,4 +1,4 @@
-public class CalculadoraSueldoNeto {
+public class Ejercicio22 {
     public static void main(String[] args) {
         int contador = 1;
         
