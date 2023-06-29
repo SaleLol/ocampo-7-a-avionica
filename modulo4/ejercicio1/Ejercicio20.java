@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class NumerosAleatorios {
+public class Ejercicio20 {
     public static void main(String[] args) {
         int contador = 1;
         int maximo = Integer.MIN_VALUE;
