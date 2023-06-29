@@ -1,4 +1,4 @@
-public class ParImpar {
+public class Ejercicio2 {
     public static void main(String[] args) {
         int numero = 17; // El número que deseas verificar
 
