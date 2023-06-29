@@ -1,4 +1,4 @@
-public class CalculadoraSueldoNeto {
+public class Ejercicio21 {
     public static void main(String[] args) {
         char categoria = 'A';
         int antiguedad = 8;
