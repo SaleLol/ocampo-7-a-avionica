@@ -20,11 +20,6 @@ public class Ejercicio19 {
         System.out.println("Promedio: " + promedio);
     }
 }
-En este programa, se utiliza un ciclo while para generar y mostrar 10 números aleatorios. El contador se inicializa en 1 y se incrementa en cada iteración hasta llegar a 10.
-
-Dentro del ciclo, se genera un número aleatorio utilizando la clase Random. En cada iteración, se muestra el número generado y se acumula en la variable suma.
-
-Después de completar el ciclo while, se calcula el promedio dividiendo la suma entre 10 y se almacena en la variable promedio.
 
 
 

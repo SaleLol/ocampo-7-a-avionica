@@ -15,14 +15,6 @@ public class Ejercicio16 {
         }
     }
 }
-En este programa, se solicita al usuario que ingrese un número y se almacena en la variable numero. Luego, se muestra en pantalla la tabla de multiplicar del número ingresado utilizando un bucle for.
-
-El bucle for itera desde i = 1 hasta i <= 10, multiplicando el número ingresado por cada valor de i y mostrando el resultado en cada iteración.
-
-Recuerda que para ejecutar este programa, necesitarás tener Java instalado en tu computadora y compilarlo adecuadamente antes de ejecutarlo.
-
-
-
 
 
 
